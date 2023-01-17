@@ -6,7 +6,9 @@ The intent of the book is to provide a rigorous yet accessible foundation to Mar
 
 # Requisite Background
 
-The book is aimed at fourth year undergraduates and graduate students and features many examples and problems.We believe a suitable background to read this book includes linear algebra, probability (especially Markov Chains), linear regression and analysis.  The reader should be comfortable with mathematical notation and a theorem-proof framework.
+The book is aimed at fourth year undergraduates and graduate students and features many examples and problems.
+We believe a suitable background to read this book includes linear algebra, probability (especially Markov Chains), linear regression and analysis. 
+The reader should be comfortable with mathematical notation and a theorem-proof framework.
 
 # Book Chapters
 
@@ -31,3 +33,5 @@ Chapter 9 Approximations
 Chapter 10 Simulation 
 
 Chapter 11 Reinforcement Learning
+
+Appendices (Markov Chains, Linear Programming)
