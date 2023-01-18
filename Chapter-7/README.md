@@ -1,4 +1,4 @@
-# Chapter-7
+# Chapter 7 Overview
 
 This chapter provides an overview of finite state and action average reward MDP models. 
 It focusses primarily on the unichain case in which the Markov chain corresponding to every determistic stationary policy has a single closed class.
