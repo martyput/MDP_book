@@ -2,7 +2,7 @@ This folder contains the latest drafts of selected chapters of the forthcoming b
 
 # Book Objective 
 
-The intent of the book is to provide a rigorous yet accessible foundation to Markov decision processes (MDPs) and reinforcement learning (RL) by focussing on finite state and action models.  It is not intended to cover all the latest work on RL but to provide a sufficient foundation for the reader to jump into current research.   The book also contains a chapter on partially observed MDPs (POMDPs) but will not cover continuous time models which at this time do not appear to a major reseach focus. 
+The intent of the book is to provide a rigorous yet accessible foundation to Markov decision processes (MDPs) and reinforcement learning (RL) by focussing on finite state and action models.  It is not intended to cover all the latest work on RL but to provide a sufficient foundation for the reader to jump into current research.   The book also contains a chapter on partially observed MDPs (POMDPs) but will not cover continuous time models which at this time do not appear to a major research focus. 
 
 # Requisite Background
 
