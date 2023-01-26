@@ -14,8 +14,9 @@ The reader should be comfortable with mathematical notation and a theorem-proof 
 
 All algorithms and results are illustrated with examples.  Each chapter  contains a large number of fomulation, computation  and theoretical problems and some bibliographical and "editorial" remarks.  Code (mostly in R) we used for the examples will be posted in each chapter folder. 
 The book uses the notation "cmax" and "arg cmax" to emphasize that when representing results in vector form, maximization is carried out componentwise.
-One convention we try use consistently is that subscripts on states and actions refer to specific states and actions while superscripts refer to states and actions generated at differnt iterations of an  algorithm or   simulation.
- 
+Moroever we introduce the concept of state-action value funcitons early on and use it throughout the book, especially in the simulation and reinforcement learning sections.
+
+One convention we try to use consistently is that subscripts on states and actions refer to specific states and actions while superscripts refer to states and actions generated at different iterations of an  algorithm or   simulation.
 
 
 # Book Chapters
