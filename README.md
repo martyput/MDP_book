@@ -6,13 +6,13 @@ The intent of the book is to provide a rigorous yet accessible foundation to Mar
 
 # Requisite Background
 
-The book is aimed at fourth year undergraduates and graduate students.
-We believe a suitable background to read this book includes linear algebra, probability (especially Markov Chains), linear regression and analysis. 
+The book is aimed at fourth-year undergraduates and graduate students.
+We believe a suitable background to read this book includes linear algebra,  Markov chains, linear regression and analysis. 
 The reader should be comfortable with mathematical notation and a theorem-proof framework.
 
 # Features
 
-All algorithms and results are illustrated with examples.  Each chapter  contains a large number of fomulation, computation  and theoretical problems and some bibliographical and "editorial" remarks.  Code (mostly in R) we used for the examples will be posted in each chapter folder. 
+All algorithms and results are illustrated with examples and applications.  Each chapter  contains a large number of fomulation, computation  and theoretical problems and some bibliographical  remarks.  Code (mostly in R) we used for the examples will be posted in each chapter folder. 
 The book uses the notation "cmax" and "arg cmax" to emphasize that when representing results in vector form, maximization is carried out componentwise.
 Moroever we introduce the concept of state-action value funcitons early on and use it throughout the book, especially in the simulation and reinforcement learning sections.
 
