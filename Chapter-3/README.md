@@ -1,1 +1,1 @@
-# Chapter-3
+This chapter provides applications of Markov decision processes to wide range of disciplines.  Each section describes a problem, provides   an MDP formulation and discusses it.  Application challenges are highlighted.  This chapter is must reading before proceding in the book.
