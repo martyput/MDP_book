@@ -22,11 +22,11 @@ One convention we try to use consistently is that subscripts on states and actio
 
 Part I - Preliminaries
 
-    Chapter 1 Introduction
+Chapter 1 Introduction
   
-    Chapter 2 [Foundations](Chapter-2/Book/)
+Chapter 2 [Foundations](Chapter-2/Book/)
 
-    Chapter 3 [Applications](Chapter-3/Book/)
+Chapter 3 [Applications](Chapter-3/Book/)
 
 Part II Classical Models
 
