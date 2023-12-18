@@ -21,26 +21,24 @@ One convention we try to use consistently is that subscripts on states and actio
 
 # Book Chapters
 
-Chapter 1 Introduction
+Part I Preliminaries
+  Chapter 1 Introduction
+  Chapter 2 [Foundations](Chapter-2/Book/)
+  Chapter 3 [Applications](Chapter-3/Book/)
 
-Chapter 2 [Foundations](Chapter-2/Book/)
+Part II Classical Models
 
-Chapter 3 [Applications](Chapter-3/Book/)
+  Chapter 4 [Finite Horizon MDPs](Chapter-4/Book/)
+  Chapter 5 [Infinite Horizon Discounted MDPS](Chapter-5/Book/)
+  Chapter 6 [Infinite Horizon Total Reward MDPS](Chapter-6/Book/)
+  Chapter 7 [Infinite Horizon Average Reward MDPS](Chapter-7/Book/)
+  Chapter 8 Partially Observed MDPS
 
-Chapter 4 [Finite Horizon MDPs](Chapter-4/Book/)
-
-Chapter 5 [Infinite Horizon Discounted MDPS](Chapter-5/Book/)
-
-Chapter 6 [Infinite Horizon Total Reward MDPS](Chapter-6/Book/)
-
-Chapter 7 [Infinite Horizon Average Reward MDPS](Chapter-7/Book/)
-
-Chapter 8 Partially Observed MDPS
-
-Chapter 9 Approximations
-
-Chapter 10 [Simulation](Chapter-10/Book/) 
-
-Chapter 11 Reinforcement Learning
+Part III Reinforcement Learning
+  
+  Chapter 9 Approximations in Tabular Models
+  Chapter 10 [Simulation in Tabular Models](Chapter-10/Book/) 
+  Chapter 11 Reinforcement Learning
 
 Appendices (Markov Chains, Linear Programming)
+Bibliography
