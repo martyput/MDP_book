@@ -18,7 +18,6 @@ Moroever we introduce the concept of state-action value funcitons early on and u
 
 One convention we try to use consistently is that subscripts on states and actions refer to specific states and actions while superscripts refer to states and actions generated at different iterations of an  algorithm or   simulation.
 
-
 # Book Chapters
 
 Part I Preliminaries
