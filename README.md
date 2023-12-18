@@ -28,7 +28,7 @@ Chapter 2 [Foundations](Chapter-2/Book/)
 
 Chapter 3 [Applications](Chapter-3/Book/)
 
-Part II Classical Models
+Part II - Classical Models
 
   Chapter 4 [Finite Horizon MDPs](Chapter-4/Book/)
   
@@ -40,7 +40,7 @@ Part II Classical Models
   
   Chapter 8 Partially Observed MDPS
 
-Part III Reinforcement Learning
+Part III - Reinforcement Learning
   
   Chapter 9 Approximations in Tabular Models
   
