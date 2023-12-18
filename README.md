@@ -20,9 +20,9 @@ One convention we try to use consistently is that subscripts on states and actio
 
 # Book Chapters
 
-Part I Preliminaries
+Part I - Preliminaries
 
-  Chapter 1 Introduction
+    Chapter 1 Introduction
   
   Chapter 2 [Foundations](Chapter-2/Book/)
   
