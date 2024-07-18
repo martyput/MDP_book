@@ -20,7 +20,7 @@ One convention we try to use consistently is that subscripts on states and actio
 
 # Book Chapters
 
-Part I - Preliminaries
+Part I - [Preliminaries](Part-I/)
 
 Chapter 1 Introduction
   
@@ -28,7 +28,7 @@ Chapter 2 [Foundations](Chapter-2/Book/)
 
 Chapter 3 [Applications](Chapter-3/Book/)
 
-Part II - Classical Models
+Part II - [Classical Models](Part-II)
 
   Chapter 4 [Finite Horizon MDPs](Chapter-4/Book/)
   
