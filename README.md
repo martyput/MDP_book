@@ -46,7 +46,9 @@ Part III - Reinforcement Learning
   
   Chapter 10 [Simulation in Tabular Models](Chapter-10/Book/) 
   
-  Chapter 11 Reinforcement Learning
+  Chapter 11 [Reinforcement Learning](Chapter-11/Book/)
+  
+  Chapter 12 [Simulation with Function Approximation](Chapter-12/Book/)
 
 Appendices (Markov Chains, Linear Programming)
 
