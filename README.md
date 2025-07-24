@@ -1,8 +1,8 @@
-This folder contains the latest drafts of selected chapters of the forthcoming book "Introduction to Markov Decision Processes" by Martin Puterman and Tim Chan. They are in varying degrees of completeness.  Please share any comments on material or typos with the authors ASAP.
+This folder contains several chapters of our forthcoming book "Markov Decision Processes and Reinforcement Learning" by Martin Puterman and Tim Chan. The book is now in production. Please share any comments on material or typos with the authors ASAP.
 
 # Book Objective 
 
-The intent of the book is to provide a rigorous yet accessible foundation to Markov decision processes (MDPs) and reinforcement learning (RL) by focussing on finite state and action models.  The book is divided into three parts: Preliminaries, Classical Models, Reinforcement Learning. It is not intended to cover all the latest work on RL but to provide a sufficient foundation for the reader to jump into current research.   The book also contains a chapter on partially observed MDPs (POMDPs) but will not cover continuous time models which at this time do not appear to be a major research focus. 
+The intent of the book is to provide a rigorous yet accessible foundation to Markov decision processes (MDPs) and reinforcement learning (RL) by focussing on finite state and action models.  The book is divided into three parts: Preliminaries, Classical Models, Reinforcement Learning. It is not intended to cover all the latest work on RL but to provide a solid foundation for the reader to jump into current research.   The book also contains a chapter on partially observed MDPs (POMDPs) but will not cover continuous time models which at this time do not appear to be a major research focus. 
 
 # Requisite Background
 
