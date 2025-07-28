@@ -1,10 +1,1 @@
-# Chapter 7 Overview
-
-This chapter provides an overview of finite state and action average reward MDP models. 
-It focusses primarily on the unichain case in which the Markov chain corresponding to every determistic stationary policy has a single closed class.
-Consequently optimal value functions can be found with a single optimality equation in contrast to
-the multi-chain case which require a pair of nested optimality equations.
-It focusses on the gain and bias of a policy and relates them to discounted and finite horizon value functions.
-
-The chapter combines results from Chapters 8 and 9 in Puterman's 1994 book and is hopefully more accessible. 
-Underlying Markov chain concepts appear in an Appendix which we will upload soon.
+ Chapter 7 covers infinite horizon Markov decision processes under the long-run average reward criterion. The average reward criterion applies to non-terminating systems in which decisions are made frequently and in perpetuity. These models pose numerous analytical challenges because the existence and structure of the average reward depends on the limiting properties of underlying Markov chains. Markov chain structure and its implications on the average reward model are discussed. The concepts of bias and gain are formalized and connections to the discounted model and total reward model are provided. The Bellman equation and its properties are presented. Value iteration, policy iteration and linear programming approaches are studied. The concept of relative value iteration is introduced. A brief discussion of structured policies is included. The chapter concludes with a case study of queuing service rate control, comparing solution algorithms. 
