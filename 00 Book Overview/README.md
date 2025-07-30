@@ -1,4 +1,4 @@
-This folder contains several chapters of our forthcoming book "Markov Decision Processes and Reinforcement Learning" by Martin Puterman and Tim Chan. The book is now in production. Please share any comments on material or typos with the authors ASAP.
+This repository contains the preface, introductions to Parts I, II and III, all   chapter summaries and preprints of Chapters 1-5  of the forthcoming book "Markov Decision Processes and Reinforcement Learning" by Martin Puterman and Tim Chan. The book is now in production. Please share any comments on material or typos with the authors ASAP.
 
 # Book Objective 
 
@@ -12,7 +12,7 @@ The reader should be comfortable with mathematical notation and a theorem-proof 
 
 # Features
 
-All algorithms and results are illustrated with examples and applications.  Each chapter  contains a large number of fomulation, computation  and theoretical problems and some bibliographical  remarks.  Code (mostly in R) we used for the examples will be posted in each chapter folder. 
+All algorithms and results are illustrated with examples and applications.  Each chapter  contains a large number of formulation, computation  and theoretical problems and some bibliographical  remarks.  R Code   used for the examples will be posted in each chapter folder. 
 The book uses the notation "cmax" and "arg cmax" to emphasize that when representing results in vector form, maximization is carried out componentwise.
 Moroever we introduce the concept of state-action value funcitons early on and use it throughout the book, especially in the simulation and reinforcement learning sections.
 
