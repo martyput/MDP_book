@@ -50,6 +50,6 @@ Part III - Reinforcement Learning
   
   Chapter 11 Simulation with Function Approximation
   
-Appendices (Notations and COnventionsMarkov Chains, Linear Programming)
+Appendices (Notations and Conventions, Markov Chains, Linear Programming)
 
 Bibliography
