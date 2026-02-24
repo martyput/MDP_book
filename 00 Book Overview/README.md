@@ -1,6 +1,4 @@
-This repository contains the Preface, introductions to Parts I, II and III, all   chapter summaries and preprints of Chapters 1-5  of the forthcoming book "Markov Decision Processes and Reinforcement Learning" by Martin Puterman and Tim Chan. The book is now in production. Please share any comments on material or typos with the authors ASAP.
-
-The files were updated on August 15, 2025 to fix broken links.
+This repository contains the Preface, introductions to Parts I, II and III, chapter summaries and preprints of all chapters of the forthcoming book "Markov Decision Processes and Reinforcement Learning" by Martin Puterman and Tim Chan. Copy editing is almost complete and the book should be published in June 2026. Please share any comments on material or typos with the authors ASAP.
 
 # Book Objective 
 
